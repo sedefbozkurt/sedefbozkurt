@@ -1,16 +1,23 @@
-## Hi there 👋
+# Merhaba, Ben Sedef 👋
 
-<!--
-**sedefbozkurt/sedefbozkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+- 🎓 Bilgisayar Programcılığı mezunu, Muğla Sıtkı Koçman Üniversitesi
+- 💼
+- 🌱 Şu anda Web Geliştirme üzerine çalışıyorum
+- ⚡️ İlgi Alanlarım: Açık kaynak projeleri, Web geliştirme, Veri Bilimi
+- 📫 Bana ulaşın: sedefbozkurt.4379@gmail.com
 
-Here are some ideas to get you started:
+## Öne Çıkan Projeler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub İstatistiklerim
+![İstatistikler](https://github-readme-stats.vercel.app/api?username=sedefbozkurt&show_icons=true&theme=radical)
+![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=sedefbozkurt&layout=compact&theme=radical)
+
+## Blog Yazılarım
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+## İletişim
+- [LinkedIn](https://www.linkedin.com/in/sedef-bozkurt-a4782727b/)
+- [Twitter](https://x.com/sedefb00)
